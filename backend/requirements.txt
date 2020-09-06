@@ -1,0 +1,7 @@
+django-filter
+djangorestframework
+pytest
+psycopg2
+Django>=3.0,<4.0
+pandas
+sqlalchemy
